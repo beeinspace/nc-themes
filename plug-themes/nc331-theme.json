@@ -1,106 +1,216 @@
-{
-    "room":                     "NC 331",
-    "author":                   "Created by greySynapse and donvoo, Maintained by PixelBreeze & TheBanHammer",
-    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css?v=1",
-    "rules": {
-        "allowAutorespond":     true,
-        "allowAutowoot":        true,
-        "allowAutojoin":        true,
-        "allowAutograb":        true,
-        "allowSmartVote":       true,
-        "allowEmotes":          true,
-        "allowShowingMehs":     false,
-        "forceSmartVote":       false
-    },
-    "ccc": {
-        "admin":                null,
-        "ambassador":           null,
-        "host":                 "#87449c",
-        "cohost":               "#87449c",
-        "manager":              "#7854a9",
-        "bouncer":              "#626cbc",
-        "rdj":                  "#547bc9",
-        "subscriber":           null,
-        "friend":               null,
-        "user":                 null
-    },
-    "images": {
-        "background":           null,
-        "playback":             null,
-        "admin":                "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Admin.png",
-        "ambassador":           "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png",
-        "host":                 "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png",
-        "cohost":               "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png",
-        "manager":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Manager.png",
-        "bouncer":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Bouncer.png",
-        "rdj":                  "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png",
-        "subscriber":           null
-    },
-    "autocomplete": [],
-    "emotes": {
-        "firelenny":                    "https://i.imgur.com/jleilmo.gif",
-        "pusheennoodles":               "http://fc07.deviantart.net/fs71/f/2014/359/e/5/pusheen_eating_ramen_by_pikuniku-d8b5irh.gif",
-        "pusheencookies":               "http://orig02.deviantart.net/956e/f/2014/201/6/9/_free_avatar__chef_pusheen_by_jericam-d7rhjnt.gif",
-        "rainbowsheep":                 "http://fc09.deviantart.net/fs71/f/2015/035/1/b/rainbow_sheep_by_addmedia-d8gpqbw.gif",
-        "twerk":                        "https://i.imgur.com/kF7m9Ab.gif",
-        "banned":                       "https://i.imgur.com/EOuLASw.gif",
-        "kawaiighost":                  "https://i.imgur.com/TC6h5uy.gif",
-        "rainbowllama":                 "https://i.imgur.com/2xQpOh6.gif",
-        "nat":                          "https://i.imgur.com/ZbRznPp.gif",
-        "d2rage":                       "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Emoticon_rage.gif?version=6887e870be370c1439ea8cf58e0d0a3a",
-        "d2salty":                      "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Emoticon_salty.gif?version=0c2f6756952b7c29ed0adc0d17b4c5a2",
-        "d2cry":                        "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5b/Emoticon_tears.gif?version=c8678e5807a8c8ff6dadf38c9f8338f5",
-        "d2surprise":                   "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Emoticon_surprise.gif?version=395640aa022368f92485cd252722128b",
-        "d2horse":                      "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Emoticon_horse.gif?version=81e77e5a46b5b6388ccb017682af6664",
-        "papaya":                       "https://i.imgur.com/CygrZK8.png",
-        "oops":                         "https://i.imgur.com/AwCW1f1.png",
-        "4ninja":                       "https://i.imgur.com/GGtRmcy.gif",
-        "4neko":                        "https://i.imgur.com/2NSEZr3.gif",
-        "4play":                        "https://i.imgur.com/8qIYB9k.gif",
-        "res":                          "https://i.imgur.com/RTAafmV.jpg",
-        "umaru":                        "https://i.imgur.com/u9wayzx.png",
-        "pantsu":                       "https://i.imgur.com/pFbtK5l.png",
-        "tuturu":                       "https://i.imgur.com/2aSciA1.png",
-        "trgsfear":                     "https://i.imgur.com/S6e9uNV.jpg",
-        "petme":                        "https://i.imgur.com/ZcXheej.gif",
-        "sadneko":                      "https://i.imgur.com/fDPfNZd.gif",
-        "lelneko":                      "https://i.imgur.com/7DKtJau.gif",
-        "bugdj":                        "https://i.imgur.com/O3m7Lny.png",
-        "lennygif":                     "https://i.imgur.com/Rii79kX.gif",
-        "isla":                         "https://i.imgur.com/CTL9knY.png",
-        "kabum":                        "https://cdn.bssecure.net/nightcore/emotes/kabum.png",
-        "pillowgirl":                   "https://cdn.bssecure.net/nightcore/emotes/pillowgirl.gif",
-        "allokitty":                    "https://i.imgur.com/j7EemL2.png",
-        "nekopraise":                   "https://i.imgur.com/bafHllY.gif",
-        "nekospin":                     "https://i.imgur.com/ikekvtQ.gif",
-        "pusheensleep":                 "https://i.imgur.com/j1pEPMP.gif",
-        "emishush":                     "https://i.imgur.com/MSHrwTZ.gif",
-        "emiconfused":                  "https://i.imgur.com/hDoGSZ5.gif",
-        "2scary":                       "https://cdn.bssecure.net/nightcore/2scary.png",
-        "sadmikh":                      "https://cdn.bssecure.net/nightcore/sadmikh.png",
-        "harambe":                      "https://i.imgur.com/zGwRv1t.png",
-        "harambeking":                  "https://i.imgur.com/hy9zRYz.png",
-        "triggered":                    "https://i.imgur.com/XPgBvC7.gif",
-        "pinguh":                       "http://cdn.frankerfacez.com/558d8587e1e81bb8cff660b77ccd22cd.PNG",
-        "wew":                          "https://i.imgur.com/i5B5LSI.png",
-        "chucklul":                     "https://i.imgur.com/jDPUezw.png",
-        "boi":                          "https://i.imgur.com/YnIpiMu.png",
-        "emishrug":                     "https://i.imgur.com/omwfW0G.png",
-        "jizzface":                     "https://i.imgur.com/ZgAj3PO.png",
-        "hitagi":                       "https://i.imgur.com/edDtIpA.png",
-        "luldva":                       "https://cdn.bssecure.net/img/plug/luldva.png",
-        "lulnoon":                      "https://cdn.bssecure.net/img/plug/lulnoon.png",
-        "lulzarya":                     "https://cdn.bssecure.net/img/plug/lulzarya.png",
-        "k":                            "https://i.imgur.com/s6r1L8S.png",
-        "feelsbanman":                  "https://cdn.bssecure.net/img/plug/feelsbanman.png",
-        "ermahgawd":                    "https://i.imgur.com/6aRkzqa.jpg",
-        "rollingeyes":                  "https://i.imgur.com/Li3hhCc.png",
-        "feelsryuugawagatekiwokurau":   "https://i.imgur.com/gd1L7vR.png",
-        "notlikemiya":                  "https://i.imgur.com/mz6m2ne.png",
-        "feelstrumpman":                "https://i.imgur.com/kr3800p.png",
-        "hm":                           "https://i.imgur.com/qufvpCD.png",
-        "mh":                           "https://i.imgur.com/LF34QxL.png",
-        "peekaboo":                     "https://i.imgur.com/kKFamHk.png",
-        "soontm":                       "https://i.imgur.com/faB1op4.png"
-    }
+/*
+    Chillout Music Community Theme
+    For use in: https://plug.dj/the-chillout-room
+
+
+    Copyright 2016 ChilloutMusic (http://chilloutmusic.fm/)
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+*/
+
+
+@import url("https://chilloutmusica.github.io/cm/src/users.css");
+@import url("https://chilloutmusica.github.io/cm/src/rdjs.css");
+
+body {
+    background-size: 100% auto !important;
+    background-attachment: fixed 0px 0px !important;
+}
+
+#room-bar .icon-room {
+    background: url(https://psv4.userapi.com/c812621/u23778676/docs/d907848680c0/cm_kopia.png);
+}
+
+#playback-container {
+    background-image: url();
+    background-position: center;
+    background-size: 100% auto;
+}
+
+#chat .message:nth-child(2n+1) #chat .mention:nth-child(2n+1) #chat .skip:nth-child(2n+1) #chat .moderation:nth-child(2n+1) #chat .emote:nth-child(2n+1) #chat .update:nth-child(2n+1) #chat .welcome:nth-child(2n+1) {
+    background-color: rgba(17 19 23 0.32);
+    -webkit-animation: fadein 0.25s;
+    -moz-animation: fadein 0.25s;
+    -ms-animation: fadein 0.25s;
+    -o-animation: fadein 0.25s;
+    animation: fadein 0.25s;
+    animation: fadein 0.25s;
+    background-color: #000033;
+    border-radius: 0px;
+    background-color: rgba(17 19 23 0.5);
+}
+
+#chat #chat-input {
+    background: rgba(80 80 80 0.25);
+}
+
+.icon-chat-host > span {
+    color: #663333 !important;
+}
+
+#playlist-panel {
+    opacity: .85;
+}
+
+#footer {
+    background-color: rgba(30 30 36 1) !important;
+}
+
+#playback-controls .button.snooze {
+    background: #cc9933 !important;
+    opacity: .7;
+}
+
+#playlist-button {
+    background: #663333 !important;
+}
+
+#playlist-menu .menu .row.selected {
+    background: #000033 !important;
+}
+
+.media-list .row.now-playing {
+    background: #663333 !important;
+    border-bottom: 1px solid #ff5f7c !important;
+}
+
+#playlist-menu .menu .row .count {
+    color: #663333 !important;
+}
+
+#grab .bottom #grab.selected {
+    background: #000033 !important;
+}
+
+#footer-user .bar .progress {
+    background: #663333 !important;
+}
+
+.experience .xp .bar .progress {
+    background: #663333 !important;
+}
+
+.activate-button span {
+    color: #FFFFFF !important;
+}
+
+#playlist-activate-button {
+    background: none !important;
+}
+
+#playlist-activate-button span {
+    color: #663333 !important;
+}
+
+.media-list .row.now-playing .actions {
+    background: #663333 !important;
+}
+
+.media-list .row.selected {
+    background: #000033 !important;
+}
+
+.media-list .selected .actions {
+    background: #663333 !important;
+}
+
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #663333 !important;
+}
+
+.dialog.destructive .button.submit {
+}
+
+#room-info .button.disabled {
+    background: #663333 !important;
+}
+
+#room-info .button.enabled {
+    background: #000033 !important;
+}
+
+#playlist-create:hover {
+    background: #000033 !important;
+}
+
+#playlist-import:hover {
+    background: #000033 !important;
+}
+
+#playlist-edit-button:hover {
+    background: #000033 !important;
+}
+
+#playlist-shuffle-button:hover {
+    background: #000033 !important;
+}
+
+#playlist-delete-button:hover {
+    background: #cc9933 !important;
+}
+
+.tab-menu button.selected {
+    background: #663333 !important;
+}
+
+#dj-button .left {
+    background: #000033 !important;
+}
+
+#dj-button.is-leave .left {
+    background: #663333 !important;
+}
+
+#dj-button.is-quit .left {
+    background: #663333 !important;
+}
+
+.delete-button:hover {
+    background: #663333 !important;
+}
+
+.icon-plug-dj {
+    display: none;
+}
+
+#chat .icon .icon-p3 {
+    background-image: url('') !important;
+}
+
+.icon-chat-ambassador + span {
+    color: #cc9933 !important;
+}
+
+.icon-chat-host + span {
+    color: #663333 !important;
+}
+
+.icon-chat-cohost + span {
+    color: #663333 !important;
+}
+
+.icon-chat-manager + span {
+    color: #000033 !important;
+}
+
+.icon-chat-bouncer + span {
+    color: #000033 !important;
+}
+
+.icon-chat-dj + span {
+    color: #cc9933 !important;
+}
+
+.drag-media-box {
+    background-color: #663333;
 }
